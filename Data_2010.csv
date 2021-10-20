@@ -1,0 +1,1099 @@
+ParentLocationCode,ParentLocation,Location type,Location,Period type,Period,IsLatestYear,Dim1 type,Dim1,Age,Language,DateModified
+AMR,Americas,Country,Haiti,Year,2010,FALSE,Sex,Male,27.97,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Haiti,Year,2010,FALSE,Sex,Both sexes,31.28,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Haiti,Year,2010,FALSE,Sex,Female,35.37,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Lesotho,Year,2010,FALSE,Sex,Male,44.5,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Eswatini,Year,2010,FALSE,Sex,Male,44.86,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Central African Republic,Year,2010,FALSE,Sex,Male,46.69,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Lesotho,Year,2010,FALSE,Sex,Both sexes,47.38,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Eswatini,Year,2010,FALSE,Sex,Both sexes,47.43,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Central African Republic,Year,2010,FALSE,Sex,Both sexes,48.51,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,Somalia,Year,2010,FALSE,Sex,Male,49.49,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Zimbabwe,Year,2010,FALSE,Sex,Male,49.58,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Central African Republic,Year,2010,FALSE,Sex,Female,50.44,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Mozambique,Year,2010,FALSE,Sex,Male,50.66,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Lesotho,Year,2010,FALSE,Sex,Female,50.69,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Eswatini,Year,2010,FALSE,Sex,Female,50.76,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Zimbabwe,Year,2010,FALSE,Sex,Both sexes,51.49,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,Somalia,Year,2010,FALSE,Sex,Both sexes,51.98,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Guinea-Bissau,Year,2010,FALSE,Sex,Male,53.05,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Zimbabwe,Year,2010,FALSE,Sex,Female,53.21,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Mozambique,Year,2010,FALSE,Sex,Both sexes,53.48,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Sierra Leone,Year,2010,FALSE,Sex,Male,53.65,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Chad,Year,2010,FALSE,Sex,Male,53.93,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Zambia,Year,2010,FALSE,Sex,Male,54.27,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Malawi,Year,2010,FALSE,Sex,Male,54.38,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Sierra Leone,Year,2010,FALSE,Sex,Both sexes,54.74,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,Kiribati,Year,2010,FALSE,Sex,Male,54.75,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,CÌ«te d‰ÛªIvoire,Year,2010,FALSE,Sex,Male,54.81,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,Somalia,Year,2010,FALSE,Sex,Female,54.91,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,South Africa,Year,2010,FALSE,Sex,Male,55.04,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Cameroon,Year,2010,FALSE,Sex,Male,55.09,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Botswana,Year,2010,FALSE,Sex,Male,55.14,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Guinea-Bissau,Year,2010,FALSE,Sex,Both sexes,55.43,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Chad,Year,2010,FALSE,Sex,Both sexes,55.65,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Democratic Republic of the Congo,Year,2010,FALSE,Sex,Male,55.65,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Angola,Year,2010,FALSE,Sex,Male,55.78,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Sierra Leone,Year,2010,FALSE,Sex,Female,55.78,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Burkina Faso,Year,2010,FALSE,Sex,Male,56.19,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Mozambique,Year,2010,FALSE,Sex,Female,56.29,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Cameroon,Year,2010,FALSE,Sex,Both sexes,56.58,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,CÌ«te d‰ÛªIvoire,Year,2010,FALSE,Sex,Both sexes,56.62,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Guinea,Year,2010,FALSE,Sex,Male,56.65,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Zambia,Year,2010,FALSE,Sex,Both sexes,56.67,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Malawi,Year,2010,FALSE,Sex,Both sexes,56.8,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Burundi,Year,2010,FALSE,Sex,Male,56.86,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Uganda,Year,2010,FALSE,Sex,Male,57.02,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Togo,Year,2010,FALSE,Sex,Male,57.04,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,South Africa,Year,2010,FALSE,Sex,Both sexes,57.14,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Namibia,Year,2010,FALSE,Sex,Male,57.25,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Chad,Year,2010,FALSE,Sex,Female,57.43,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Democratic Republic of the Congo,Year,2010,FALSE,Sex,Both sexes,57.51,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Guinea-Bissau,Year,2010,FALSE,Sex,Female,57.68,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Nigeria,Year,2010,FALSE,Sex,Male,57.75,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Niger,Year,2010,FALSE,Sex,Male,57.77,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Eritrea,Year,2010,FALSE,Sex,Male,57.78,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,Kiribati,Year,2010,FALSE,Sex,Both sexes,58.01,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Benin,Year,2010,FALSE,Sex,Male,58.03,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Angola,Year,2010,FALSE,Sex,Both sexes,58.07,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Guinea,Year,2010,FALSE,Sex,Both sexes,58.07,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Cameroon,Year,2010,FALSE,Sex,Female,58.09,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Botswana,Year,2010,FALSE,Sex,Both sexes,58.14,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Burkina Faso,Year,2010,FALSE,Sex,Both sexes,58.59,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Mali,Year,2010,FALSE,Sex,Male,58.59,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Burundi,Year,2010,FALSE,Sex,Both sexes,58.6,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,CÌ«te d‰ÛªIvoire,Year,2010,FALSE,Sex,Female,58.94,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Niger,Year,2010,FALSE,Sex,Both sexes,58.95,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Mali,Year,2010,FALSE,Sex,Both sexes,59.05,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Zambia,Year,2010,FALSE,Sex,Female,59.06,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Equatorial Guinea,Year,2010,FALSE,Sex,Female,59.12,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,South Sudan,Year,2010,FALSE,Sex,Male,59.2,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Kenya,Year,2010,FALSE,Sex,Male,59.23,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Malawi,Year,2010,FALSE,Sex,Female,59.24,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Nigeria,Year,2010,FALSE,Sex,Both sexes,59.24,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,South Africa,Year,2010,FALSE,Sex,Female,59.24,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Guinea,Year,2010,FALSE,Sex,Female,59.26,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Togo,Year,2010,FALSE,Sex,Both sexes,59.33,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Democratic Republic of the Congo,Year,2010,FALSE,Sex,Female,59.42,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Mali,Year,2010,FALSE,Sex,Female,59.49,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,Afghanistan,Year,2010,FALSE,Sex,Male,59.6,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Equatorial Guinea,Year,2010,FALSE,Sex,Both sexes,59.65,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Uganda,Year,2010,FALSE,Sex,Both sexes,59.67,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Ghana,Year,2010,FALSE,Sex,Male,59.7,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Equatorial Guinea,Year,2010,FALSE,Sex,Male,59.75,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,Afghanistan,Year,2010,FALSE,Sex,Both sexes,59.94,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,Micronesia (Federated States of),Year,2010,FALSE,Sex,Male,60.01,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,United Republic of Tanzania,Year,2010,FALSE,Sex,Male,60.02,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Liberia,Year,2010,FALSE,Sex,Male,60.07,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Gabon,Year,2010,FALSE,Sex,Male,60.12,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Niger,Year,2010,FALSE,Sex,Female,60.19,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,Afghanistan,Year,2010,FALSE,Sex,Female,60.3,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Burundi,Year,2010,FALSE,Sex,Female,60.32,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Benin,Year,2010,FALSE,Sex,Both sexes,60.47,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Angola,Year,2010,FALSE,Sex,Female,60.53,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Gambia,Year,2010,FALSE,Sex,Male,60.59,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,Djibouti,Year,2010,FALSE,Sex,Male,60.63,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Eritrea,Year,2010,FALSE,Sex,Both sexes,60.7,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Liberia,Year,2010,FALSE,Sex,Both sexes,60.7,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Burkina Faso,Year,2010,FALSE,Sex,Female,60.79,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Nigeria,Year,2010,FALSE,Sex,Female,60.79,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Congo,Year,2010,FALSE,Sex,Female,60.85,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Namibia,Year,2010,FALSE,Sex,Both sexes,60.94,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Congo,Year,2010,FALSE,Sex,Both sexes,60.95,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Congo,Year,2010,FALSE,Sex,Male,60.99,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,Mongolia,Year,2010,FALSE,Sex,Male,61.09,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,South Sudan,Year,2010,FALSE,Sex,Both sexes,61.1,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Kenya,Year,2010,FALSE,Sex,Both sexes,61.18,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,Solomon Islands,Year,2010,FALSE,Sex,Male,61.3,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Liberia,Year,2010,FALSE,Sex,Female,61.32,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Ethiopia,Year,2010,FALSE,Sex,Male,61.33,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Botswana,Year,2010,FALSE,Sex,Female,61.36,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,Kiribati,Year,2010,FALSE,Sex,Female,61.39,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,United Republic of Tanzania,Year,2010,FALSE,Sex,Both sexes,61.39,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Madagascar,Year,2010,FALSE,Sex,Male,61.43,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,Papua New Guinea,Year,2010,FALSE,Sex,Male,61.52,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,Pakistan,Year,2010,FALSE,Sex,Male,61.53,EN,2020-12-04T00:00:00.000Z
+SEAR,South-East Asia,Country,Myanmar,Year,2010,FALSE,Sex,Male,61.62,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Guyana,Year,2010,FALSE,Sex,Male,61.63,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Togo,Year,2010,FALSE,Sex,Female,61.83,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,Djibouti,Year,2010,FALSE,Sex,Both sexes,61.87,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,Vanuatu,Year,2010,FALSE,Sex,Male,61.9,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Ghana,Year,2010,FALSE,Sex,Both sexes,62,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Gabon,Year,2010,FALSE,Sex,Both sexes,62.16,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Uganda,Year,2010,FALSE,Sex,Female,62.21,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Rwanda,Year,2010,FALSE,Sex,Male,62.31,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Gambia,Year,2010,FALSE,Sex,Both sexes,62.42,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,Lao People's Democratic Republic,Year,2010,FALSE,Sex,Male,62.44,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,United Republic of Tanzania,Year,2010,FALSE,Sex,Female,62.63,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,Pakistan,Year,2010,FALSE,Sex,Both sexes,62.64,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,Micronesia (Federated States of),Year,2010,FALSE,Sex,Both sexes,62.67,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Madagascar,Year,2010,FALSE,Sex,Both sexes,62.79,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Benin,Year,2010,FALSE,Sex,Female,62.88,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Ethiopia,Year,2010,FALSE,Sex,Both sexes,62.92,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Russian Federation,Year,2010,FALSE,Sex,Male,62.94,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Kenya,Year,2010,FALSE,Sex,Female,63.07,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,South Sudan,Year,2010,FALSE,Sex,Female,63.08,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,Djibouti,Year,2010,FALSE,Sex,Female,63.26,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,Papua New Guinea,Year,2010,FALSE,Sex,Both sexes,63.42,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Kazakhstan,Year,2010,FALSE,Sex,Male,63.58,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Comoros,Year,2010,FALSE,Sex,Male,63.6,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Turkmenistan,Year,2010,FALSE,Sex,Male,63.62,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Senegal,Year,2010,FALSE,Sex,Male,63.67,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,Solomon Islands,Year,2010,FALSE,Sex,Both sexes,63.69,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,Pakistan,Year,2010,FALSE,Sex,Female,63.9,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Eritrea,Year,2010,FALSE,Sex,Female,63.97,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Madagascar,Year,2010,FALSE,Sex,Female,64.17,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,Cambodia,Year,2010,FALSE,Sex,Male,64.19,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Gabon,Year,2010,FALSE,Sex,Female,64.25,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Rwanda,Year,2010,FALSE,Sex,Both sexes,64.44,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Gambia,Year,2010,FALSE,Sex,Female,64.47,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,Vanuatu,Year,2010,FALSE,Sex,Both sexes,64.52,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Ghana,Year,2010,FALSE,Sex,Female,64.53,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Belarus,Year,2010,FALSE,Sex,Male,64.55,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Ethiopia,Year,2010,FALSE,Sex,Female,64.55,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Republic of Moldova,Year,2010,FALSE,Sex,Male,64.62,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Namibia,Year,2010,FALSE,Sex,Female,64.66,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,Sudan,Year,2010,FALSE,Sex,Male,64.74,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Guyana,Year,2010,FALSE,Sex,Both sexes,64.77,EN,2020-12-04T00:00:00.000Z
+SEAR,South-East Asia,Country,Myanmar,Year,2010,FALSE,Sex,Both sexes,64.79,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,Lao People's Democratic Republic,Year,2010,FALSE,Sex,Both sexes,64.88,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Comoros,Year,2010,FALSE,Sex,Both sexes,64.98,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,Mongolia,Year,2010,FALSE,Sex,Both sexes,65.05,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Kyrgyzstan,Year,2010,FALSE,Sex,Male,65.2,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Ukraine,Year,2010,FALSE,Sex,Male,65.2,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Mauritania,Year,2010,FALSE,Sex,Male,65.4,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,Papua New Guinea,Year,2010,FALSE,Sex,Female,65.4,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Senegal,Year,2010,FALSE,Sex,Both sexes,65.47,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Mauritania,Year,2010,FALSE,Sex,Both sexes,65.59,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,Micronesia (Federated States of),Year,2010,FALSE,Sex,Female,65.61,EN,2020-12-04T00:00:00.000Z
+SEAR,South-East Asia,Country,India,Year,2010,FALSE,Sex,Male,65.69,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Guatemala,Year,2010,FALSE,Sex,Male,65.82,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,Fiji,Year,2010,FALSE,Sex,Male,65.86,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Mauritania,Year,2010,FALSE,Sex,Female,65.87,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,Yemen,Year,2010,FALSE,Sex,Male,65.88,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Tajikistan,Year,2010,FALSE,Sex,Male,66.04,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Azerbaijan,Year,2010,FALSE,Sex,Male,66.29,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Comoros,Year,2010,FALSE,Sex,Female,66.35,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,Solomon Islands,Year,2010,FALSE,Sex,Female,66.4,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Rwanda,Year,2010,FALSE,Sex,Female,66.51,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,Sudan,Year,2010,FALSE,Sex,Both sexes,66.56,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,Philippines,Year,2010,FALSE,Sex,Male,66.63,EN,2020-12-04T00:00:00.000Z
+SEAR,South-East Asia,Country,Timor-Leste,Year,2010,FALSE,Sex,Male,66.79,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Sao Tome and Principe,Year,2010,FALSE,Sex,Male,66.89,EN,2020-12-04T00:00:00.000Z
+SEAR,South-East Asia,Country,Democratic People's Republic of Korea,Year,2010,FALSE,Sex,Male,66.93,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Senegal,Year,2010,FALSE,Sex,Female,67.15,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,Cambodia,Year,2010,FALSE,Sex,Both sexes,67.22,EN,2020-12-04T00:00:00.000Z
+SEAR,South-East Asia,Country,India,Year,2010,FALSE,Sex,Both sexes,67.23,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Turkmenistan,Year,2010,FALSE,Sex,Both sexes,67.31,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,Lao People's Democratic Republic,Year,2010,FALSE,Sex,Female,67.38,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Georgia,Year,2010,FALSE,Sex,Male,67.44,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Lithuania,Year,2010,FALSE,Sex,Male,67.49,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,Vanuatu,Year,2010,FALSE,Sex,Female,67.5,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Uzbekistan,Year,2010,FALSE,Sex,Male,67.51,EN,2020-12-04T00:00:00.000Z
+SEAR,South-East Asia,Country,Nepal,Year,2010,FALSE,Sex,Male,67.52,EN,2020-12-04T00:00:00.000Z
+SEAR,South-East Asia,Country,Indonesia,Year,2010,FALSE,Sex,Male,67.53,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,Fiji,Year,2010,FALSE,Sex,Both sexes,67.6,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,Yemen,Year,2010,FALSE,Sex,Both sexes,67.7,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,Iraq,Year,2010,FALSE,Sex,Male,67.76,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Latvia,Year,2010,FALSE,Sex,Male,67.76,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,Egypt,Year,2010,FALSE,Sex,Male,67.82,EN,2020-12-04T00:00:00.000Z
+SEAR,South-East Asia,Country,Myanmar,Year,2010,FALSE,Sex,Female,67.87,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Tajikistan,Year,2010,FALSE,Sex,Both sexes,68.01,EN,2020-12-04T00:00:00.000Z
+SEAR,South-East Asia,Country,Timor-Leste,Year,2010,FALSE,Sex,Both sexes,68.06,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,Samoa,Year,2010,FALSE,Sex,Male,68.08,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Guyana,Year,2010,FALSE,Sex,Female,68.23,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Sao Tome and Principe,Year,2010,FALSE,Sex,Both sexes,68.24,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,Sudan,Year,2010,FALSE,Sex,Female,68.41,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,Viet Nam,Year,2010,FALSE,Sex,Male,68.42,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Kazakhstan,Year,2010,FALSE,Sex,Both sexes,68.43,EN,2020-12-04T00:00:00.000Z
+SEAR,South-East Asia,Country,Bangladesh,Year,2010,FALSE,Sex,Male,68.63,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Suriname,Year,2010,FALSE,Sex,Male,68.71,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Trinidad and Tobago,Year,2010,FALSE,Sex,Male,68.74,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Russian Federation,Year,2010,FALSE,Sex,Both sexes,68.76,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Republic of Moldova,Year,2010,FALSE,Sex,Both sexes,68.81,EN,2020-12-04T00:00:00.000Z
+SEAR,South-East Asia,Country,India,Year,2010,FALSE,Sex,Female,68.94,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,Oman,Year,2010,FALSE,Sex,Male,68.97,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Azerbaijan,Year,2010,FALSE,Sex,Both sexes,69.03,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,Tonga,Year,2010,FALSE,Sex,Male,69.14,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Kyrgyzstan,Year,2010,FALSE,Sex,Both sexes,69.17,EN,2020-12-04T00:00:00.000Z
+SEAR,South-East Asia,Country,Nepal,Year,2010,FALSE,Sex,Both sexes,69.18,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Grenada,Year,2010,FALSE,Sex,Male,69.2,EN,2020-12-04T00:00:00.000Z
+SEAR,South-East Asia,Country,Indonesia,Year,2010,FALSE,Sex,Both sexes,69.26,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Guatemala,Year,2010,FALSE,Sex,Both sexes,69.3,EN,2020-12-04T00:00:00.000Z
+SEAR,South-East Asia,Country,Timor-Leste,Year,2010,FALSE,Sex,Female,69.36,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Armenia,Year,2010,FALSE,Sex,Male,69.39,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Bolivia (Plurinational State of),Year,2010,FALSE,Sex,Male,69.44,EN,2020-12-04T00:00:00.000Z
+SEAR,South-East Asia,Country,Sri Lanka,Year,2010,FALSE,Sex,Male,69.44,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,Mongolia,Year,2010,FALSE,Sex,Female,69.47,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,Fiji,Year,2010,FALSE,Sex,Female,69.52,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Sao Tome and Principe,Year,2010,FALSE,Sex,Female,69.55,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,Samoa,Year,2010,FALSE,Sex,Both sexes,69.57,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Seychelles,Year,2010,FALSE,Sex,Male,69.57,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,Yemen,Year,2010,FALSE,Sex,Female,69.58,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Bahamas,Year,2010,FALSE,Sex,Male,69.64,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Mauritius,Year,2010,FALSE,Sex,Male,69.84,EN,2020-12-04T00:00:00.000Z
+SEAR,South-East Asia,Country,Bhutan,Year,2010,FALSE,Sex,Male,69.87,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,Philippines,Year,2010,FALSE,Sex,Both sexes,69.96,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,Cambodia,Year,2010,FALSE,Sex,Female,70.01,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Romania,Year,2010,FALSE,Sex,Male,70.07,EN,2020-12-04T00:00:00.000Z
+SEAR,South-East Asia,Country,Democratic People's Republic of Korea,Year,2010,FALSE,Sex,Both sexes,70.18,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Bulgaria,Year,2010,FALSE,Sex,Male,70.19,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Tajikistan,Year,2010,FALSE,Sex,Female,70.19,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Uzbekistan,Year,2010,FALSE,Sex,Both sexes,70.19,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,Egypt,Year,2010,FALSE,Sex,Both sexes,70.2,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Ukraine,Year,2010,FALSE,Sex,Both sexes,70.2,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Honduras,Year,2010,FALSE,Sex,Male,70.24,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,Iraq,Year,2010,FALSE,Sex,Both sexes,70.24,EN,2020-12-04T00:00:00.000Z
+SEAR,South-East Asia,Country,Bangladesh,Year,2010,FALSE,Sex,Both sexes,70.29,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Bolivia (Plurinational State of),Year,2010,FALSE,Sex,Both sexes,70.34,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,Oman,Year,2010,FALSE,Sex,Both sexes,70.36,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Belarus,Year,2010,FALSE,Sex,Both sexes,70.39,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,Saudi Arabia,Year,2010,FALSE,Sex,Male,70.39,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Dominican Republic,Year,2010,FALSE,Sex,Male,70.43,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Brazil,Year,2010,FALSE,Sex,Male,70.57,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,El Salvador,Year,2010,FALSE,Sex,Male,70.62,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Hungary,Year,2010,FALSE,Sex,Male,70.63,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Venezuela (Bolivarian Republic of),Year,2010,FALSE,Sex,Male,70.82,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Cabo Verde,Year,2010,FALSE,Sex,Male,70.83,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Estonia,Year,2010,FALSE,Sex,Male,70.86,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Belize,Year,2010,FALSE,Sex,Male,70.89,EN,2020-12-04T00:00:00.000Z
+SEAR,South-East Asia,Country,Nepal,Year,2010,FALSE,Sex,Female,70.92,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,The former Yugoslav Republic of Macedonia,Year,2010,FALSE,Sex,Male,70.92,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Saint Vincent and the Grenadines,Year,2010,FALSE,Sex,Male,70.92,EN,2020-12-04T00:00:00.000Z
+SEAR,South-East Asia,Country,Bhutan,Year,2010,FALSE,Sex,Both sexes,71.01,EN,2020-12-04T00:00:00.000Z
+SEAR,South-East Asia,Country,Indonesia,Year,2010,FALSE,Sex,Female,71.03,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,Morocco,Year,2010,FALSE,Sex,Male,71.07,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Turkmenistan,Year,2010,FALSE,Sex,Female,71.09,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Honduras,Year,2010,FALSE,Sex,Both sexes,71.15,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,Samoa,Year,2010,FALSE,Sex,Female,71.16,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Bolivia (Plurinational State of),Year,2010,FALSE,Sex,Female,71.25,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Nicaragua,Year,2010,FALSE,Sex,Male,71.38,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,Morocco,Year,2010,FALSE,Sex,Both sexes,71.6,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Serbia,Year,2010,FALSE,Sex,Male,71.63,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Slovakia,Year,2010,FALSE,Sex,Male,71.69,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,Saudi Arabia,Year,2010,FALSE,Sex,Both sexes,71.76,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Azerbaijan,Year,2010,FALSE,Sex,Female,71.83,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Suriname,Year,2010,FALSE,Sex,Both sexes,71.83,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Saint Lucia,Year,2010,FALSE,Sex,Male,71.86,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Georgia,Year,2010,FALSE,Sex,Both sexes,71.87,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Grenada,Year,2010,FALSE,Sex,Both sexes,71.97,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Poland,Year,2010,FALSE,Sex,Male,72.08,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Honduras,Year,2010,FALSE,Sex,Female,72.11,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Trinidad and Tobago,Year,2010,FALSE,Sex,Both sexes,72.12,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Argentina,Year,2010,FALSE,Sex,Male,72.14,EN,2020-12-04T00:00:00.000Z
+SEAR,South-East Asia,Country,Bangladesh,Year,2010,FALSE,Sex,Female,72.22,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,Tonga,Year,2010,FALSE,Sex,Both sexes,72.22,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Mexico,Year,2010,FALSE,Sex,Male,72.23,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,Malaysia,Year,2010,FALSE,Sex,Male,72.25,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,China,Year,2010,FALSE,Sex,Male,72.26,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Montenegro,Year,2010,FALSE,Sex,Male,72.27,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,Morocco,Year,2010,FALSE,Sex,Female,72.27,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Ecuador,Year,2010,FALSE,Sex,Male,72.31,EN,2020-12-04T00:00:00.000Z
+SEAR,South-East Asia,Country,Bhutan,Year,2010,FALSE,Sex,Female,72.35,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Paraguay,Year,2010,FALSE,Sex,Male,72.47,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Uruguay,Year,2010,FALSE,Sex,Male,72.54,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,Oman,Year,2010,FALSE,Sex,Female,72.55,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,Egypt,Year,2010,FALSE,Sex,Female,72.69,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,Viet Nam,Year,2010,FALSE,Sex,Both sexes,72.72,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Guatemala,Year,2010,FALSE,Sex,Female,72.77,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,Iraq,Year,2010,FALSE,Sex,Female,72.79,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Saint Vincent and the Grenadines,Year,2010,FALSE,Sex,Both sexes,72.85,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Uzbekistan,Year,2010,FALSE,Sex,Female,72.91,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Latvia,Year,2010,FALSE,Sex,Both sexes,72.94,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Bahamas,Year,2010,FALSE,Sex,Both sexes,72.96,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Seychelles,Year,2010,FALSE,Sex,Both sexes,73.01,EN,2020-12-04T00:00:00.000Z
+SEAR,South-East Asia,Country,Democratic People's Republic of Korea,Year,2010,FALSE,Sex,Female,73.09,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Republic of Moldova,Year,2010,FALSE,Sex,Female,73.11,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,The former Yugoslav Republic of Macedonia,Year,2010,FALSE,Sex,Both sexes,73.11,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Armenia,Year,2010,FALSE,Sex,Both sexes,73.12,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Lithuania,Year,2010,FALSE,Sex,Both sexes,73.14,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Dominican Republic,Year,2010,FALSE,Sex,Both sexes,73.17,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,Syrian Arab Republic,Year,2010,FALSE,Sex,Male,73.2,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Mauritius,Year,2010,FALSE,Sex,Both sexes,73.24,EN,2020-12-04T00:00:00.000Z
+SEAR,South-East Asia,Country,Thailand,Year,2010,FALSE,Sex,Male,73.24,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,Lebanon,Year,2010,FALSE,Sex,Male,73.26,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Jamaica,Year,2010,FALSE,Sex,Male,73.27,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Kyrgyzstan,Year,2010,FALSE,Sex,Female,73.29,EN,2020-12-04T00:00:00.000Z
+SEAR,South-East Asia,Country,Sri Lanka,Year,2010,FALSE,Sex,Both sexes,73.3,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,Brunei Darussalam,Year,2010,FALSE,Sex,Male,73.35,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Belize,Year,2010,FALSE,Sex,Both sexes,73.39,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Kazakhstan,Year,2010,FALSE,Sex,Female,73.39,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Croatia,Year,2010,FALSE,Sex,Male,73.41,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,Philippines,Year,2010,FALSE,Sex,Female,73.52,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Antigua and Barbuda,Year,2010,FALSE,Sex,Male,73.56,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Bulgaria,Year,2010,FALSE,Sex,Both sexes,73.64,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,Saudi Arabia,Year,2010,FALSE,Sex,Female,73.67,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Romania,Year,2010,FALSE,Sex,Both sexes,73.7,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,Bahrain,Year,2010,FALSE,Sex,Male,73.85,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Bosnia and Herzegovina,Year,2010,FALSE,Sex,Male,73.85,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,United Arab Emirates,Year,2010,FALSE,Sex,Male,73.86,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,Iran (Islamic Republic of),Year,2010,FALSE,Sex,Male,73.87,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,Qatar,Year,2010,FALSE,Sex,Female,73.87,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,Tunisia,Year,2010,FALSE,Sex,Male,73.95,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Colombia,Year,2010,FALSE,Sex,Male,74,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Nicaragua,Year,2010,FALSE,Sex,Both sexes,74.05,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,Qatar,Year,2010,FALSE,Sex,Both sexes,74.08,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Brazil,Year,2010,FALSE,Sex,Both sexes,74.09,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Cabo Verde,Year,2010,FALSE,Sex,Both sexes,74.12,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Serbia,Year,2010,FALSE,Sex,Both sexes,74.2,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Albania,Year,2010,FALSE,Sex,Male,74.23,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,Malaysia,Year,2010,FALSE,Sex,Both sexes,74.25,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,Syrian Arab Republic,Year,2010,FALSE,Sex,Both sexes,74.35,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Czechia,Year,2010,FALSE,Sex,Male,74.41,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Barbados,Year,2010,FALSE,Sex,Male,74.46,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,El Salvador,Year,2010,FALSE,Sex,Both sexes,74.5,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,Bahrain,Year,2010,FALSE,Sex,Both sexes,74.52,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,Brunei Darussalam,Year,2010,FALSE,Sex,Both sexes,74.57,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Hungary,Year,2010,FALSE,Sex,Both sexes,74.58,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Panama,Year,2010,FALSE,Sex,Male,74.63,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Turkey,Year,2010,FALSE,Sex,Male,74.65,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Montenegro,Year,2010,FALSE,Sex,Both sexes,74.69,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Russian Federation,Year,2010,FALSE,Sex,Female,74.72,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,Libya,Year,2010,FALSE,Sex,Male,74.79,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Venezuela (Bolivarian Republic of),Year,2010,FALSE,Sex,Both sexes,74.79,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,United Arab Emirates,Year,2010,FALSE,Sex,Both sexes,74.86,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,China,Year,2010,FALSE,Sex,Both sexes,74.89,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Algeria,Year,2010,FALSE,Sex,Male,74.95,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,Qatar,Year,2010,FALSE,Sex,Male,74.97,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Paraguay,Year,2010,FALSE,Sex,Both sexes,74.99,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Saint Vincent and the Grenadines,Year,2010,FALSE,Sex,Female,74.99,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Ecuador,Year,2010,FALSE,Sex,Both sexes,75.02,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Ukraine,Year,2010,FALSE,Sex,Female,75.1,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Suriname,Year,2010,FALSE,Sex,Female,75.12,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Mexico,Year,2010,FALSE,Sex,Both sexes,75.13,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Saint Lucia,Year,2010,FALSE,Sex,Both sexes,75.2,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,Bahrain,Year,2010,FALSE,Sex,Female,75.34,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,The former Yugoslav Republic of Macedonia,Year,2010,FALSE,Sex,Female,75.4,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Argentina,Year,2010,FALSE,Sex,Both sexes,75.44,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Slovakia,Year,2010,FALSE,Sex,Both sexes,75.47,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Chile,Year,2010,FALSE,Sex,Male,75.48,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Grenada,Year,2010,FALSE,Sex,Female,75.48,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,Tonga,Year,2010,FALSE,Sex,Female,75.5,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,Lebanon,Year,2010,FALSE,Sex,Both sexes,75.53,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Cuba,Year,2010,FALSE,Sex,Male,75.55,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,Jordan,Year,2010,FALSE,Sex,Male,75.59,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Peru,Year,2010,FALSE,Sex,Male,75.61,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,Syrian Arab Republic,Year,2010,FALSE,Sex,Female,75.63,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Trinidad and Tobago,Year,2010,FALSE,Sex,Female,75.69,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Jamaica,Year,2010,FALSE,Sex,Both sexes,75.77,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,Brunei Darussalam,Year,2010,FALSE,Sex,Female,75.84,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Algeria,Year,2010,FALSE,Sex,Both sexes,75.85,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,Iran (Islamic Republic of),Year,2010,FALSE,Sex,Both sexes,75.86,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Estonia,Year,2010,FALSE,Sex,Both sexes,75.87,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Barbados,Year,2010,FALSE,Sex,Both sexes,75.88,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Antigua and Barbuda,Year,2010,FALSE,Sex,Both sexes,75.95,EN,2020-12-04T00:00:00.000Z
+SEAR,South-East Asia,Country,Maldives,Year,2010,FALSE,Sex,Male,76.02,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,Libya,Year,2010,FALSE,Sex,Both sexes,76.04,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,Tunisia,Year,2010,FALSE,Sex,Both sexes,76.05,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Belize,Year,2010,FALSE,Sex,Female,76.12,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Dominican Republic,Year,2010,FALSE,Sex,Female,76.14,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Bosnia and Herzegovina,Year,2010,FALSE,Sex,Both sexes,76.19,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Albania,Year,2010,FALSE,Sex,Both sexes,76.25,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Bahamas,Year,2010,FALSE,Sex,Female,76.25,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Poland,Year,2010,FALSE,Sex,Both sexes,76.25,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Slovenia,Year,2010,FALSE,Sex,Male,76.25,EN,2020-12-04T00:00:00.000Z
+SEAR,South-East Asia,Country,Thailand,Year,2010,FALSE,Sex,Both sexes,76.25,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,United States of America,Year,2010,FALSE,Sex,Male,76.27,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Georgia,Year,2010,FALSE,Sex,Female,76.3,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Uruguay,Year,2010,FALSE,Sex,Both sexes,76.36,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Belarus,Year,2010,FALSE,Sex,Female,76.41,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,Malaysia,Year,2010,FALSE,Sex,Female,76.52,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,Jordan,Year,2010,FALSE,Sex,Both sexes,76.59,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Portugal,Year,2010,FALSE,Sex,Male,76.59,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Armenia,Year,2010,FALSE,Sex,Female,76.61,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Nicaragua,Year,2010,FALSE,Sex,Female,76.66,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Finland,Year,2010,FALSE,Sex,Male,76.68,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Croatia,Year,2010,FALSE,Sex,Both sexes,76.72,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Algeria,Year,2010,FALSE,Sex,Female,76.79,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Mauritius,Year,2010,FALSE,Sex,Female,76.8,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Serbia,Year,2010,FALSE,Sex,Female,76.83,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Seychelles,Year,2010,FALSE,Sex,Female,76.84,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Turkey,Year,2010,FALSE,Sex,Both sexes,76.89,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Costa Rica,Year,2010,FALSE,Sex,Male,76.98,EN,2020-12-04T00:00:00.000Z
+SEAR,South-East Asia,Country,Maldives,Year,2010,FALSE,Sex,Both sexes,76.99,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Colombia,Year,2010,FALSE,Sex,Both sexes,77.09,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Montenegro,Year,2010,FALSE,Sex,Female,77.12,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,Republic of Korea,Year,2010,FALSE,Sex,Male,77.12,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,Viet Nam,Year,2010,FALSE,Sex,Female,77.15,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Barbados,Year,2010,FALSE,Sex,Female,77.2,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Denmark,Year,2010,FALSE,Sex,Male,77.2,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Bulgaria,Year,2010,FALSE,Sex,Female,77.23,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Belgium,Year,2010,FALSE,Sex,Male,77.24,EN,2020-12-04T00:00:00.000Z
+SEAR,South-East Asia,Country,Sri Lanka,Year,2010,FALSE,Sex,Female,77.26,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Cabo Verde,Year,2010,FALSE,Sex,Female,77.27,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Peru,Year,2010,FALSE,Sex,Both sexes,77.28,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,Libya,Year,2010,FALSE,Sex,Female,77.3,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,United Arab Emirates,Year,2010,FALSE,Sex,Female,77.39,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Romania,Year,2010,FALSE,Sex,Female,77.43,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Greece,Year,2010,FALSE,Sex,Male,77.52,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Panama,Year,2010,FALSE,Sex,Both sexes,77.53,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Czechia,Year,2010,FALSE,Sex,Both sexes,77.56,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,Jordan,Year,2010,FALSE,Sex,Female,77.62,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Austria,Year,2010,FALSE,Sex,Male,77.65,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Cuba,Year,2010,FALSE,Sex,Both sexes,77.65,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Brazil,Year,2010,FALSE,Sex,Female,77.68,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Paraguay,Year,2010,FALSE,Sex,Female,77.73,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Germany,Year,2010,FALSE,Sex,Male,77.78,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Latvia,Year,2010,FALSE,Sex,Female,77.78,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Ecuador,Year,2010,FALSE,Sex,Female,77.86,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,China,Year,2010,FALSE,Sex,Female,77.94,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,France,Year,2010,FALSE,Sex,Male,77.96,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,Iran (Islamic Republic of),Year,2010,FALSE,Sex,Female,78.01,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Mexico,Year,2010,FALSE,Sex,Female,78.01,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,El Salvador,Year,2010,FALSE,Sex,Female,78.04,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,Lebanon,Year,2010,FALSE,Sex,Female,78.12,EN,2020-12-04T00:00:00.000Z
+SEAR,South-East Asia,Country,Maldives,Year,2010,FALSE,Sex,Female,78.17,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,Tunisia,Year,2010,FALSE,Sex,Female,78.21,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Malta,Year,2010,FALSE,Sex,Male,78.23,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Antigua and Barbuda,Year,2010,FALSE,Sex,Female,78.25,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Albania,Year,2010,FALSE,Sex,Female,78.31,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Ireland,Year,2010,FALSE,Sex,Male,78.33,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,United Kingdom of Great Britain and Northern Ireland,Year,2010,FALSE,Sex,Male,78.34,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Hungary,Year,2010,FALSE,Sex,Female,78.35,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Chile,Year,2010,FALSE,Sex,Both sexes,78.46,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Bosnia and Herzegovina,Year,2010,FALSE,Sex,Female,78.47,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Jamaica,Year,2010,FALSE,Sex,Female,78.51,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,United States of America,Year,2010,FALSE,Sex,Both sexes,78.56,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Luxembourg,Year,2010,FALSE,Sex,Male,78.61,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Argentina,Year,2010,FALSE,Sex,Female,78.63,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Lithuania,Year,2010,FALSE,Sex,Female,78.67,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Netherlands,Year,2010,FALSE,Sex,Male,78.74,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,Kuwait,Year,2010,FALSE,Sex,Male,78.76,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Spain,Year,2010,FALSE,Sex,Male,78.76,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Norway,Year,2010,FALSE,Sex,Male,78.83,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Saint Lucia,Year,2010,FALSE,Sex,Female,78.87,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Peru,Year,2010,FALSE,Sex,Female,78.91,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Cyprus,Year,2010,FALSE,Sex,Male,78.93,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Venezuela (Bolivarian Republic of),Year,2010,FALSE,Sex,Female,78.99,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Turkey,Year,2010,FALSE,Sex,Female,79.08,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,New Zealand,Year,2010,FALSE,Sex,Male,79.12,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Slovakia,Year,2010,FALSE,Sex,Female,79.12,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Denmark,Year,2010,FALSE,Sex,Both sexes,79.17,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Canada,Year,2010,FALSE,Sex,Male,79.26,EN,2020-12-04T00:00:00.000Z
+SEAR,South-East Asia,Country,Thailand,Year,2010,FALSE,Sex,Female,79.3,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,Singapore,Year,2010,FALSE,Sex,Male,79.36,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Italy,Year,2010,FALSE,Sex,Male,79.37,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Sweden,Year,2010,FALSE,Sex,Male,79.41,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,Japan,Year,2010,FALSE,Sex,Male,79.46,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Slovenia,Year,2010,FALSE,Sex,Both sexes,79.55,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Costa Rica,Year,2010,FALSE,Sex,Both sexes,79.56,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Israel,Year,2010,FALSE,Sex,Male,79.62,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Portugal,Year,2010,FALSE,Sex,Both sexes,79.73,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Cuba,Year,2010,FALSE,Sex,Female,79.82,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,Kuwait,Year,2010,FALSE,Sex,Both sexes,79.83,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,Australia,Year,2010,FALSE,Sex,Male,79.84,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Belgium,Year,2010,FALSE,Sex,Both sexes,79.85,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Finland,Year,2010,FALSE,Sex,Both sexes,79.88,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Croatia,Year,2010,FALSE,Sex,Female,79.91,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Iceland,Year,2010,FALSE,Sex,Male,80.02,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Switzerland,Year,2010,FALSE,Sex,Male,80.03,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Uruguay,Year,2010,FALSE,Sex,Female,80.05,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Greece,Year,2010,FALSE,Sex,Both sexes,80.1,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Colombia,Year,2010,FALSE,Sex,Female,80.15,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Germany,Year,2010,FALSE,Sex,Both sexes,80.17,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,United Kingdom of Great Britain and Northern Ireland,Year,2010,FALSE,Sex,Both sexes,80.25,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Poland,Year,2010,FALSE,Sex,Female,80.37,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Austria,Year,2010,FALSE,Sex,Both sexes,80.39,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Ireland,Year,2010,FALSE,Sex,Both sexes,80.41,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Estonia,Year,2010,FALSE,Sex,Female,80.45,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Malta,Year,2010,FALSE,Sex,Both sexes,80.45,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,Republic of Korea,Year,2010,FALSE,Sex,Both sexes,80.58,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Czechia,Year,2010,FALSE,Sex,Female,80.65,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Panama,Year,2010,FALSE,Sex,Female,80.65,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Netherlands,Year,2010,FALSE,Sex,Both sexes,80.68,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,United States of America,Year,2010,FALSE,Sex,Female,80.8,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Norway,Year,2010,FALSE,Sex,Both sexes,80.87,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Luxembourg,Year,2010,FALSE,Sex,Both sexes,80.94,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,New Zealand,Year,2010,FALSE,Sex,Both sexes,80.94,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Cyprus,Year,2010,FALSE,Sex,Both sexes,81.02,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Denmark,Year,2010,FALSE,Sex,Female,81.1,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,France,Year,2010,FALSE,Sex,Both sexes,81.22,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Chile,Year,2010,FALSE,Sex,Female,81.3,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Sweden,Year,2010,FALSE,Sex,Both sexes,81.3,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Canada,Year,2010,FALSE,Sex,Both sexes,81.31,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,Kuwait,Year,2010,FALSE,Sex,Female,81.43,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Israel,Year,2010,FALSE,Sex,Both sexes,81.56,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Iceland,Year,2010,FALSE,Sex,Both sexes,81.68,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Spain,Year,2010,FALSE,Sex,Both sexes,81.69,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,Singapore,Year,2010,FALSE,Sex,Both sexes,81.7,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,Australia,Year,2010,FALSE,Sex,Both sexes,81.9,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Italy,Year,2010,FALSE,Sex,Both sexes,81.9,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,United Kingdom of Great Britain and Northern Ireland,Year,2010,FALSE,Sex,Female,82.09,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Switzerland,Year,2010,FALSE,Sex,Both sexes,82.19,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Costa Rica,Year,2010,FALSE,Sex,Female,82.22,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Belgium,Year,2010,FALSE,Sex,Female,82.38,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Ireland,Year,2010,FALSE,Sex,Female,82.44,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Netherlands,Year,2010,FALSE,Sex,Female,82.5,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Germany,Year,2010,FALSE,Sex,Female,82.54,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Malta,Year,2010,FALSE,Sex,Female,82.54,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,Japan,Year,2010,FALSE,Sex,Both sexes,82.68,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Greece,Year,2010,FALSE,Sex,Female,82.71,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,New Zealand,Year,2010,FALSE,Sex,Female,82.71,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Slovenia,Year,2010,FALSE,Sex,Female,82.73,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Portugal,Year,2010,FALSE,Sex,Female,82.74,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Norway,Year,2010,FALSE,Sex,Female,82.85,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Austria,Year,2010,FALSE,Sex,Female,82.99,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Finland,Year,2010,FALSE,Sex,Female,83.04,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Cyprus,Year,2010,FALSE,Sex,Female,83.1,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Luxembourg,Year,2010,FALSE,Sex,Female,83.1,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Sweden,Year,2010,FALSE,Sex,Female,83.15,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Canada,Year,2010,FALSE,Sex,Female,83.27,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Iceland,Year,2010,FALSE,Sex,Female,83.34,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Israel,Year,2010,FALSE,Sex,Female,83.34,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,Republic of Korea,Year,2010,FALSE,Sex,Female,83.78,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,Australia,Year,2010,FALSE,Sex,Female,83.99,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,Singapore,Year,2010,FALSE,Sex,Female,84.01,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Switzerland,Year,2010,FALSE,Sex,Female,84.18,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Italy,Year,2010,FALSE,Sex,Female,84.22,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,France,Year,2010,FALSE,Sex,Female,84.34,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Spain,Year,2010,FALSE,Sex,Female,84.58,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,Japan,Year,2010,FALSE,Sex,Female,85.77,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Lesotho,Year,2010,FALSE,Sex,Male,10.57,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Central African Republic,Year,2010,FALSE,Sex,Male,10.73,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Eswatini,Year,2010,FALSE,Sex,Male,10.82,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Haiti,Year,2010,FALSE,Sex,Male,10.86,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Haiti,Year,2010,FALSE,Sex,Both sexes,11.46,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Haiti,Year,2010,FALSE,Sex,Female,12.01,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,Kiribati,Year,2010,FALSE,Sex,Male,12.03,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,Somalia,Year,2010,FALSE,Sex,Male,12.2,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Zimbabwe,Year,2010,FALSE,Sex,Male,12.37,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Mozambique,Year,2010,FALSE,Sex,Male,12.49,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Central African Republic,Year,2010,FALSE,Sex,Both sexes,12.51,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Lesotho,Year,2010,FALSE,Sex,Both sexes,12.77,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Guinea-Bissau,Year,2010,FALSE,Sex,Male,12.87,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Eritrea,Year,2010,FALSE,Sex,Male,12.9,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Botswana,Year,2010,FALSE,Sex,Male,13.06,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,Kiribati,Year,2010,FALSE,Sex,Both sexes,13.18,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,Mongolia,Year,2010,FALSE,Sex,Male,13.27,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Eswatini,Year,2010,FALSE,Sex,Both sexes,13.35,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Zambia,Year,2010,FALSE,Sex,Male,13.38,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,Somalia,Year,2010,FALSE,Sex,Both sexes,13.69,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Malawi,Year,2010,FALSE,Sex,Male,13.75,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Namibia,Year,2010,FALSE,Sex,Male,13.89,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,Micronesia (Federated States of),Year,2010,FALSE,Sex,Male,14.06,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Zimbabwe,Year,2010,FALSE,Sex,Both sexes,14.12,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,Solomon Islands,Year,2010,FALSE,Sex,Male,14.13,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Belarus,Year,2010,FALSE,Sex,Male,14.14,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Democratic Republic of the Congo,Year,2010,FALSE,Sex,Male,14.14,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,Kiribati,Year,2010,FALSE,Sex,Female,14.15,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Togo,Year,2010,FALSE,Sex,Male,14.15,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Central African Republic,Year,2010,FALSE,Sex,Female,14.2,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Burundi,Year,2010,FALSE,Sex,Male,14.24,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,CÌ«te d‰ÛªIvoire,Year,2010,FALSE,Sex,Male,14.26,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Angola,Year,2010,FALSE,Sex,Male,14.37,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Uganda,Year,2010,FALSE,Sex,Male,14.42,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Gabon,Year,2010,FALSE,Sex,Male,14.43,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Cameroon,Year,2010,FALSE,Sex,Male,14.44,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,Vanuatu,Year,2010,FALSE,Sex,Male,14.45,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Republic of Moldova,Year,2010,FALSE,Sex,Male,14.51,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Burkina Faso,Year,2010,FALSE,Sex,Male,14.53,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Eritrea,Year,2010,FALSE,Sex,Both sexes,14.53,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Russian Federation,Year,2010,FALSE,Sex,Male,14.53,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Ghana,Year,2010,FALSE,Sex,Male,14.55,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Chad,Year,2010,FALSE,Sex,Male,14.58,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Kazakhstan,Year,2010,FALSE,Sex,Male,14.58,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Guinea-Bissau,Year,2010,FALSE,Sex,Both sexes,14.59,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Lesotho,Year,2010,FALSE,Sex,Female,14.7,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Tajikistan,Year,2010,FALSE,Sex,Male,14.71,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Guinea,Year,2010,FALSE,Sex,Male,14.72,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,Fiji,Year,2010,FALSE,Sex,Male,14.77,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Guyana,Year,2010,FALSE,Sex,Male,14.8,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,Papua New Guinea,Year,2010,FALSE,Sex,Male,14.86,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Kenya,Year,2010,FALSE,Sex,Male,14.87,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,Micronesia (Federated States of),Year,2010,FALSE,Sex,Both sexes,14.87,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,Solomon Islands,Year,2010,FALSE,Sex,Both sexes,14.88,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Ukraine,Year,2010,FALSE,Sex,Male,14.88,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Azerbaijan,Year,2010,FALSE,Sex,Male,14.95,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Sierra Leone,Year,2010,FALSE,Sex,Male,14.96,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,Afghanistan,Year,2010,FALSE,Sex,Male,15.07,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,South Africa,Year,2010,FALSE,Sex,Male,15.07,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,Mongolia,Year,2010,FALSE,Sex,Both sexes,15.09,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Mozambique,Year,2010,FALSE,Sex,Both sexes,15.1,EN,2020-12-04T00:00:00.000Z
+SEAR,South-East Asia,Country,Myanmar,Year,2010,FALSE,Sex,Male,15.1,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,Afghanistan,Year,2010,FALSE,Sex,Both sexes,15.12,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Benin,Year,2010,FALSE,Sex,Male,15.16,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Congo,Year,2010,FALSE,Sex,Male,15.16,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,Afghanistan,Year,2010,FALSE,Sex,Female,15.17,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,Oman,Year,2010,FALSE,Sex,Male,15.17,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Botswana,Year,2010,FALSE,Sex,Both sexes,15.26,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Gambia,Year,2010,FALSE,Sex,Male,15.31,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Madagascar,Year,2010,FALSE,Sex,Male,15.33,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,Vanuatu,Year,2010,FALSE,Sex,Both sexes,15.33,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Turkmenistan,Year,2010,FALSE,Sex,Male,15.34,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Zimbabwe,Year,2010,FALSE,Sex,Female,15.37,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Zambia,Year,2010,FALSE,Sex,Both sexes,15.4,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,Somalia,Year,2010,FALSE,Sex,Female,15.42,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Democratic Republic of the Congo,Year,2010,FALSE,Sex,Both sexes,15.49,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,Lao People's Democratic Republic,Year,2010,FALSE,Sex,Male,15.49,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,Cambodia,Year,2010,FALSE,Sex,Male,15.52,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Kyrgyzstan,Year,2010,FALSE,Sex,Male,15.53,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Grenada,Year,2010,FALSE,Sex,Male,15.59,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Burundi,Year,2010,FALSE,Sex,Both sexes,15.61,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Tajikistan,Year,2010,FALSE,Sex,Both sexes,15.62,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Chad,Year,2010,FALSE,Sex,Both sexes,15.63,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,CÌ«te d‰ÛªIvoire,Year,2010,FALSE,Sex,Both sexes,15.65,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,Micronesia (Federated States of),Year,2010,FALSE,Sex,Female,15.65,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Eswatini,Year,2010,FALSE,Sex,Female,15.66,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Congo,Year,2010,FALSE,Sex,Both sexes,15.67,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Sierra Leone,Year,2010,FALSE,Sex,Both sexes,15.7,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,Solomon Islands,Year,2010,FALSE,Sex,Female,15.72,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Uzbekistan,Year,2010,FALSE,Sex,Male,15.73,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,Fiji,Year,2010,FALSE,Sex,Both sexes,15.78,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Guinea,Year,2010,FALSE,Sex,Both sexes,15.79,EN,2020-12-04T00:00:00.000Z
+SEAR,South-East Asia,Country,Democratic People's Republic of Korea,Year,2010,FALSE,Sex,Male,15.8,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,Djibouti,Year,2010,FALSE,Sex,Male,15.81,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,Pakistan,Year,2010,FALSE,Sex,Male,15.81,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Latvia,Year,2010,FALSE,Sex,Male,15.82,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Rwanda,Year,2010,FALSE,Sex,Male,15.87,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,South Sudan,Year,2010,FALSE,Sex,Male,15.87,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Cameroon,Year,2010,FALSE,Sex,Both sexes,15.88,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,Oman,Year,2010,FALSE,Sex,Both sexes,15.88,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Niger,Year,2010,FALSE,Sex,Male,15.91,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Georgia,Year,2010,FALSE,Sex,Male,15.93,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Togo,Year,2010,FALSE,Sex,Both sexes,15.93,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Guinea-Bissau,Year,2010,FALSE,Sex,Female,15.96,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Angola,Year,2010,FALSE,Sex,Both sexes,15.97,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,Philippines,Year,2010,FALSE,Sex,Male,15.99,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Malawi,Year,2010,FALSE,Sex,Both sexes,16.01,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,United Republic of Tanzania,Year,2010,FALSE,Sex,Male,16.02,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Congo,Year,2010,FALSE,Sex,Female,16.05,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,Papua New Guinea,Year,2010,FALSE,Sex,Both sexes,16.09,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,The former Yugoslav Republic of Macedonia,Year,2010,FALSE,Sex,Male,16.11,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Madagascar,Year,2010,FALSE,Sex,Both sexes,16.12,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,Qatar,Year,2010,FALSE,Sex,Female,16.12,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Burkina Faso,Year,2010,FALSE,Sex,Both sexes,16.17,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Guyana,Year,2010,FALSE,Sex,Both sexes,16.17,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Ghana,Year,2010,FALSE,Sex,Both sexes,16.21,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Eritrea,Year,2010,FALSE,Sex,Female,16.22,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Ethiopia,Year,2010,FALSE,Sex,Male,16.29,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,Egypt,Year,2010,FALSE,Sex,Male,16.31,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Liberia,Year,2010,FALSE,Sex,Male,16.34,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Sierra Leone,Year,2010,FALSE,Sex,Female,16.34,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,Vanuatu,Year,2010,FALSE,Sex,Female,16.35,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Azerbaijan,Year,2010,FALSE,Sex,Both sexes,16.36,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Gabon,Year,2010,FALSE,Sex,Both sexes,16.36,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Lithuania,Year,2010,FALSE,Sex,Male,16.37,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,Pakistan,Year,2010,FALSE,Sex,Both sexes,16.4,EN,2020-12-04T00:00:00.000Z
+SEAR,South-East Asia,Country,Indonesia,Year,2010,FALSE,Sex,Male,16.44,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Gambia,Year,2010,FALSE,Sex,Both sexes,16.45,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Namibia,Year,2010,FALSE,Sex,Both sexes,16.45,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Nigeria,Year,2010,FALSE,Sex,Male,16.51,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Senegal,Year,2010,FALSE,Sex,Male,16.51,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,Viet Nam,Year,2010,FALSE,Sex,Male,16.52,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Republic of Moldova,Year,2010,FALSE,Sex,Both sexes,16.53,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Guinea,Year,2010,FALSE,Sex,Female,16.59,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Niger,Year,2010,FALSE,Sex,Both sexes,16.59,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Chad,Year,2010,FALSE,Sex,Female,16.64,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Tajikistan,Year,2010,FALSE,Sex,Female,16.65,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Mali,Year,2010,FALSE,Sex,Male,16.66,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,Tonga,Year,2010,FALSE,Sex,Male,16.66,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Benin,Year,2010,FALSE,Sex,Both sexes,16.69,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Bulgaria,Year,2010,FALSE,Sex,Male,16.69,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Liberia,Year,2010,FALSE,Sex,Both sexes,16.71,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Sao Tome and Principe,Year,2010,FALSE,Sex,Male,16.74,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Uganda,Year,2010,FALSE,Sex,Both sexes,16.74,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Armenia,Year,2010,FALSE,Sex,Male,16.76,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Democratic Republic of the Congo,Year,2010,FALSE,Sex,Female,16.77,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,Oman,Year,2010,FALSE,Sex,Female,16.78,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,Yemen,Year,2010,FALSE,Sex,Male,16.78,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Kenya,Year,2010,FALSE,Sex,Both sexes,16.79,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,Samoa,Year,2010,FALSE,Sex,Male,16.82,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Burundi,Year,2010,FALSE,Sex,Female,16.83,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,Fiji,Year,2010,FALSE,Sex,Female,16.84,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Mali,Year,2010,FALSE,Sex,Both sexes,16.84,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,Mongolia,Year,2010,FALSE,Sex,Female,16.86,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,Lao People's Democratic Republic,Year,2010,FALSE,Sex,Both sexes,16.87,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Madagascar,Year,2010,FALSE,Sex,Female,16.89,EN,2020-12-04T00:00:00.000Z
+SEAR,South-East Asia,Country,India,Year,2010,FALSE,Sex,Male,16.91,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Comoros,Year,2010,FALSE,Sex,Male,16.92,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,South Africa,Year,2010,FALSE,Sex,Both sexes,16.92,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Equatorial Guinea,Year,2010,FALSE,Sex,Male,16.95,EN,2020-12-04T00:00:00.000Z
+SEAR,South-East Asia,Country,Myanmar,Year,2010,FALSE,Sex,Both sexes,16.97,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Hungary,Year,2010,FALSE,Sex,Male,16.98,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Mali,Year,2010,FALSE,Sex,Female,16.99,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Liberia,Year,2010,FALSE,Sex,Female,17.03,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,Djibouti,Year,2010,FALSE,Sex,Both sexes,17.06,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,Pakistan,Year,2010,FALSE,Sex,Female,17.07,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Romania,Year,2010,FALSE,Sex,Male,17.07,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Zambia,Year,2010,FALSE,Sex,Female,17.07,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Seychelles,Year,2010,FALSE,Sex,Male,17.1,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Serbia,Year,2010,FALSE,Sex,Male,17.12,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Kazakhstan,Year,2010,FALSE,Sex,Both sexes,17.16,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,South Sudan,Year,2010,FALSE,Sex,Both sexes,17.17,EN,2020-12-04T00:00:00.000Z
+SEAR,South-East Asia,Country,Nepal,Year,2010,FALSE,Sex,Male,17.19,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Slovakia,Year,2010,FALSE,Sex,Male,17.2,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Turkmenistan,Year,2010,FALSE,Sex,Both sexes,17.2,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,Cambodia,Year,2010,FALSE,Sex,Both sexes,17.22,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Niger,Year,2010,FALSE,Sex,Female,17.24,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,Papua New Guinea,Year,2010,FALSE,Sex,Female,17.24,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Cameroon,Year,2010,FALSE,Sex,Female,17.25,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,Qatar,Year,2010,FALSE,Sex,Both sexes,17.26,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Ethiopia,Year,2010,FALSE,Sex,Both sexes,17.28,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Nigeria,Year,2010,FALSE,Sex,Both sexes,17.28,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Uzbekistan,Year,2010,FALSE,Sex,Both sexes,17.28,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,Sudan,Year,2010,FALSE,Sex,Male,17.31,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,United Republic of Tanzania,Year,2010,FALSE,Sex,Both sexes,17.31,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Botswana,Year,2010,FALSE,Sex,Female,17.32,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Estonia,Year,2010,FALSE,Sex,Male,17.34,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Mauritius,Year,2010,FALSE,Sex,Male,17.36,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Rwanda,Year,2010,FALSE,Sex,Both sexes,17.37,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,Bahrain,Year,2010,FALSE,Sex,Male,17.38,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Burkina Faso,Year,2010,FALSE,Sex,Female,17.43,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Mozambique,Year,2010,FALSE,Sex,Female,17.44,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,Saudi Arabia,Year,2010,FALSE,Sex,Male,17.44,EN,2020-12-04T00:00:00.000Z
+SEAR,South-East Asia,Country,Indonesia,Year,2010,FALSE,Sex,Both sexes,17.46,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,The former Yugoslav Republic of Macedonia,Year,2010,FALSE,Sex,Both sexes,17.46,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Montenegro,Year,2010,FALSE,Sex,Male,17.47,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Sao Tome and Principe,Year,2010,FALSE,Sex,Both sexes,17.48,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,Samoa,Year,2010,FALSE,Sex,Both sexes,17.51,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,CÌ«te d‰ÛªIvoire,Year,2010,FALSE,Sex,Female,17.52,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Angola,Year,2010,FALSE,Sex,Female,17.54,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,Iraq,Year,2010,FALSE,Sex,Male,17.55,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Guyana,Year,2010,FALSE,Sex,Female,17.56,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Kyrgyzstan,Year,2010,FALSE,Sex,Both sexes,17.56,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Senegal,Year,2010,FALSE,Sex,Both sexes,17.57,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Comoros,Year,2010,FALSE,Sex,Both sexes,17.6,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Equatorial Guinea,Year,2010,FALSE,Sex,Both sexes,17.61,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Trinidad and Tobago,Year,2010,FALSE,Sex,Male,17.62,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Azerbaijan,Year,2010,FALSE,Sex,Female,17.64,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Ukraine,Year,2010,FALSE,Sex,Both sexes,17.68,EN,2020-12-04T00:00:00.000Z
+SEAR,South-East Asia,Country,Timor-Leste,Year,2010,FALSE,Sex,Male,17.7,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Belarus,Year,2010,FALSE,Sex,Both sexes,17.72,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Gambia,Year,2010,FALSE,Sex,Female,17.74,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Grenada,Year,2010,FALSE,Sex,Both sexes,17.74,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,Egypt,Year,2010,FALSE,Sex,Both sexes,17.75,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Russian Federation,Year,2010,FALSE,Sex,Both sexes,17.76,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,Yemen,Year,2010,FALSE,Sex,Both sexes,17.78,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,Bahrain,Year,2010,FALSE,Sex,Both sexes,17.82,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Togo,Year,2010,FALSE,Sex,Female,17.82,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,China,Year,2010,FALSE,Sex,Male,17.86,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Ghana,Year,2010,FALSE,Sex,Female,17.94,EN,2020-12-04T00:00:00.000Z
+SEAR,South-East Asia,Country,India,Year,2010,FALSE,Sex,Both sexes,17.95,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Benin,Year,2010,FALSE,Sex,Female,17.97,EN,2020-12-04T00:00:00.000Z
+SEAR,South-East Asia,Country,Democratic People's Republic of Korea,Year,2010,FALSE,Sex,Both sexes,17.99,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Malawi,Year,2010,FALSE,Sex,Female,18.03,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Nicaragua,Year,2010,FALSE,Sex,Male,18.03,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Nigeria,Year,2010,FALSE,Sex,Female,18.03,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,Philippines,Year,2010,FALSE,Sex,Both sexes,18.03,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Suriname,Year,2010,FALSE,Sex,Male,18.05,EN,2020-12-04T00:00:00.000Z
+SEAR,South-East Asia,Country,Bangladesh,Year,2010,FALSE,Sex,Male,18.06,EN,2020-12-04T00:00:00.000Z
+SEAR,South-East Asia,Country,Sri Lanka,Year,2010,FALSE,Sex,Male,18.07,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Croatia,Year,2010,FALSE,Sex,Male,18.09,EN,2020-12-04T00:00:00.000Z
+SEAR,South-East Asia,Country,Nepal,Year,2010,FALSE,Sex,Both sexes,18.1,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Sao Tome and Principe,Year,2010,FALSE,Sex,Female,18.1,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,Lao People's Democratic Republic,Year,2010,FALSE,Sex,Female,18.13,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,Samoa,Year,2010,FALSE,Sex,Female,18.15,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Bolivia (Plurinational State of),Year,2010,FALSE,Sex,Male,18.16,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Republic of Moldova,Year,2010,FALSE,Sex,Female,18.18,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Comoros,Year,2010,FALSE,Sex,Female,18.21,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,Sudan,Year,2010,FALSE,Sex,Both sexes,18.21,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Bosnia and Herzegovina,Year,2010,FALSE,Sex,Male,18.22,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Georgia,Year,2010,FALSE,Sex,Both sexes,18.22,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Gabon,Year,2010,FALSE,Sex,Female,18.23,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Poland,Year,2010,FALSE,Sex,Male,18.24,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Argentina,Year,2010,FALSE,Sex,Male,18.27,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,Bahrain,Year,2010,FALSE,Sex,Female,18.27,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,Lebanon,Year,2010,FALSE,Sex,Male,18.27,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Equatorial Guinea,Year,2010,FALSE,Sex,Female,18.28,EN,2020-12-04T00:00:00.000Z
+SEAR,South-East Asia,Country,Timor-Leste,Year,2010,FALSE,Sex,Both sexes,18.28,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Ethiopia,Year,2010,FALSE,Sex,Female,18.29,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,Saudi Arabia,Year,2010,FALSE,Sex,Both sexes,18.3,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Mauritania,Year,2010,FALSE,Sex,Female,18.31,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,Malaysia,Year,2010,FALSE,Sex,Male,18.34,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,United Republic of Tanzania,Year,2010,FALSE,Sex,Female,18.35,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Uruguay,Year,2010,FALSE,Sex,Male,18.36,EN,2020-12-04T00:00:00.000Z
+SEAR,South-East Asia,Country,Indonesia,Year,2010,FALSE,Sex,Female,18.4,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,Brunei Darussalam,Year,2010,FALSE,Sex,Male,18.41,EN,2020-12-04T00:00:00.000Z
+SEAR,South-East Asia,Country,Bhutan,Year,2010,FALSE,Sex,Male,18.42,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,Djibouti,Year,2010,FALSE,Sex,Female,18.42,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Kenya,Year,2010,FALSE,Sex,Female,18.48,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,South Sudan,Year,2010,FALSE,Sex,Female,18.48,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Mauritania,Year,2010,FALSE,Sex,Both sexes,18.49,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Senegal,Year,2010,FALSE,Sex,Female,18.49,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,South Africa,Year,2010,FALSE,Sex,Female,18.5,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Bolivia (Plurinational State of),Year,2010,FALSE,Sex,Both sexes,18.53,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Guatemala,Year,2010,FALSE,Sex,Male,18.55,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,Cambodia,Year,2010,FALSE,Sex,Female,18.61,EN,2020-12-04T00:00:00.000Z
+SEAR,South-East Asia,Country,Myanmar,Year,2010,FALSE,Sex,Female,18.61,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Serbia,Year,2010,FALSE,Sex,Both sexes,18.63,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,Qatar,Year,2010,FALSE,Sex,Male,18.65,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Rwanda,Year,2010,FALSE,Sex,Female,18.65,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Uganda,Year,2010,FALSE,Sex,Female,18.67,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Honduras,Year,2010,FALSE,Sex,Male,18.69,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,Morocco,Year,2010,FALSE,Sex,Both sexes,18.72,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Uzbekistan,Year,2010,FALSE,Sex,Female,18.72,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Mauritania,Year,2010,FALSE,Sex,Male,18.74,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,Yemen,Year,2010,FALSE,Sex,Female,18.74,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,The former Yugoslav Republic of Macedonia,Year,2010,FALSE,Sex,Female,18.75,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,Morocco,Year,2010,FALSE,Sex,Female,18.76,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Namibia,Year,2010,FALSE,Sex,Female,18.76,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Czechia,Year,2010,FALSE,Sex,Male,18.77,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Armenia,Year,2010,FALSE,Sex,Both sexes,18.79,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,United Arab Emirates,Year,2010,FALSE,Sex,Male,18.79,EN,2020-12-04T00:00:00.000Z
+SEAR,South-East Asia,Country,Timor-Leste,Year,2010,FALSE,Sex,Female,18.81,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,Iraq,Year,2010,FALSE,Sex,Both sexes,18.82,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,Morocco,Year,2010,FALSE,Sex,Male,18.85,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Turkmenistan,Year,2010,FALSE,Sex,Female,18.85,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Honduras,Year,2010,FALSE,Sex,Both sexes,18.86,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Bolivia (Plurinational State of),Year,2010,FALSE,Sex,Female,18.87,EN,2020-12-04T00:00:00.000Z
+SEAR,South-East Asia,Country,Bhutan,Year,2010,FALSE,Sex,Both sexes,18.89,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,Syrian Arab Republic,Year,2010,FALSE,Sex,Male,18.89,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Bulgaria,Year,2010,FALSE,Sex,Both sexes,18.92,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,Tonga,Year,2010,FALSE,Sex,Both sexes,18.93,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Montenegro,Year,2010,FALSE,Sex,Both sexes,18.97,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Saint Vincent and the Grenadines,Year,2010,FALSE,Sex,Male,18.99,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,Brunei Darussalam,Year,2010,FALSE,Sex,Both sexes,19,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Bahamas,Year,2010,FALSE,Sex,Male,19.01,EN,2020-12-04T00:00:00.000Z
+SEAR,South-East Asia,Country,Bangladesh,Year,2010,FALSE,Sex,Both sexes,19.02,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Brazil,Year,2010,FALSE,Sex,Male,19.02,EN,2020-12-04T00:00:00.000Z
+SEAR,South-East Asia,Country,India,Year,2010,FALSE,Sex,Female,19.02,EN,2020-12-04T00:00:00.000Z
+SEAR,South-East Asia,Country,Nepal,Year,2010,FALSE,Sex,Female,19.03,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,Egypt,Year,2010,FALSE,Sex,Female,19.07,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Honduras,Year,2010,FALSE,Sex,Female,19.07,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,Sudan,Year,2010,FALSE,Sex,Female,19.07,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Antigua and Barbuda,Year,2010,FALSE,Sex,Male,19.14,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,Malaysia,Year,2010,FALSE,Sex,Both sexes,19.18,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Kazakhstan,Year,2010,FALSE,Sex,Female,19.19,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,Viet Nam,Year,2010,FALSE,Sex,Both sexes,19.2,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,Syrian Arab Republic,Year,2010,FALSE,Sex,Both sexes,19.21,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Romania,Year,2010,FALSE,Sex,Both sexes,19.23,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Latvia,Year,2010,FALSE,Sex,Both sexes,19.24,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Kyrgyzstan,Year,2010,FALSE,Sex,Female,19.31,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,Saudi Arabia,Year,2010,FALSE,Sex,Female,19.33,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Seychelles,Year,2010,FALSE,Sex,Both sexes,19.33,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Mauritius,Year,2010,FALSE,Sex,Both sexes,19.39,EN,2020-12-04T00:00:00.000Z
+SEAR,South-East Asia,Country,Democratic People's Republic of Korea,Year,2010,FALSE,Sex,Female,19.47,EN,2020-12-04T00:00:00.000Z
+SEAR,South-East Asia,Country,Bhutan,Year,2010,FALSE,Sex,Female,19.48,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,United Arab Emirates,Year,2010,FALSE,Sex,Both sexes,19.53,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Guatemala,Year,2010,FALSE,Sex,Both sexes,19.55,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,Brunei Darussalam,Year,2010,FALSE,Sex,Female,19.56,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,Tunisia,Year,2010,FALSE,Sex,Male,19.57,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,China,Year,2010,FALSE,Sex,Both sexes,19.58,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Trinidad and Tobago,Year,2010,FALSE,Sex,Both sexes,19.61,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Nicaragua,Year,2010,FALSE,Sex,Both sexes,19.62,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,Syrian Arab Republic,Year,2010,FALSE,Sex,Female,19.63,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Jamaica,Year,2010,FALSE,Sex,Male,19.65,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Hungary,Year,2010,FALSE,Sex,Both sexes,19.67,EN,2020-12-04T00:00:00.000Z
+SEAR,South-East Asia,Country,Maldives,Year,2010,FALSE,Sex,Male,19.7,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Bosnia and Herzegovina,Year,2010,FALSE,Sex,Both sexes,19.73,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Turkey,Year,2010,FALSE,Sex,Male,19.76,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Slovakia,Year,2010,FALSE,Sex,Both sexes,19.8,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Ukraine,Year,2010,FALSE,Sex,Female,19.81,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Saint Vincent and the Grenadines,Year,2010,FALSE,Sex,Both sexes,19.82,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Lithuania,Year,2010,FALSE,Sex,Both sexes,19.87,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Suriname,Year,2010,FALSE,Sex,Both sexes,19.87,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,Lebanon,Year,2010,FALSE,Sex,Both sexes,19.9,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Saint Lucia,Year,2010,FALSE,Sex,Male,19.92,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Albania,Year,2010,FALSE,Sex,Male,19.94,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,Philippines,Year,2010,FALSE,Sex,Female,19.95,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Dominican Republic,Year,2010,FALSE,Sex,Male,19.98,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,Iraq,Year,2010,FALSE,Sex,Female,20.02,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Serbia,Year,2010,FALSE,Sex,Female,20.03,EN,2020-12-04T00:00:00.000Z
+SEAR,South-East Asia,Country,Sri Lanka,Year,2010,FALSE,Sex,Both sexes,20.03,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Venezuela (Bolivarian Republic of),Year,2010,FALSE,Sex,Male,20.03,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,Malaysia,Year,2010,FALSE,Sex,Female,20.06,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Georgia,Year,2010,FALSE,Sex,Female,20.11,EN,2020-12-04T00:00:00.000Z
+SEAR,South-East Asia,Country,Bangladesh,Year,2010,FALSE,Sex,Female,20.14,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Cuba,Year,2010,FALSE,Sex,Male,20.14,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Russian Federation,Year,2010,FALSE,Sex,Female,20.15,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Paraguay,Year,2010,FALSE,Sex,Male,20.17,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Mexico,Year,2010,FALSE,Sex,Male,20.26,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Slovenia,Year,2010,FALSE,Sex,Male,20.29,EN,2020-12-04T00:00:00.000Z
+SEAR,South-East Asia,Country,Maldives,Year,2010,FALSE,Sex,Both sexes,20.3,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Montenegro,Year,2010,FALSE,Sex,Female,20.3,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Chile,Year,2010,FALSE,Sex,Male,20.4,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Croatia,Year,2010,FALSE,Sex,Both sexes,20.42,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Ecuador,Year,2010,FALSE,Sex,Male,20.44,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Grenada,Year,2010,FALSE,Sex,Female,20.48,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Guatemala,Year,2010,FALSE,Sex,Female,20.49,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Antigua and Barbuda,Year,2010,FALSE,Sex,Both sexes,20.5,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Belarus,Year,2010,FALSE,Sex,Female,20.51,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Armenia,Year,2010,FALSE,Sex,Female,20.52,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,Jordan,Year,2010,FALSE,Sex,Male,20.53,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Belize,Year,2010,FALSE,Sex,Male,20.56,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,Iran (Islamic Republic of),Year,2010,FALSE,Sex,Male,20.59,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Argentina,Year,2010,FALSE,Sex,Both sexes,20.62,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Bahamas,Year,2010,FALSE,Sex,Both sexes,20.7,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Saint Vincent and the Grenadines,Year,2010,FALSE,Sex,Female,20.7,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Estonia,Year,2010,FALSE,Sex,Both sexes,20.75,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Denmark,Year,2010,FALSE,Sex,Male,20.76,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Barbados,Year,2010,FALSE,Sex,Male,20.81,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Brazil,Year,2010,FALSE,Sex,Both sexes,20.81,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Cabo Verde,Year,2010,FALSE,Sex,Male,20.85,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,Tunisia,Year,2010,FALSE,Sex,Both sexes,20.85,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Algeria,Year,2010,FALSE,Sex,Male,20.89,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Bulgaria,Year,2010,FALSE,Sex,Female,20.92,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Portugal,Year,2010,FALSE,Sex,Male,20.94,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,Libya,Year,2010,FALSE,Sex,Male,20.98,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,Jordan,Year,2010,FALSE,Sex,Both sexes,20.99,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Poland,Year,2010,FALSE,Sex,Both sexes,20.99,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Czechia,Year,2010,FALSE,Sex,Both sexes,21.01,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Bosnia and Herzegovina,Year,2010,FALSE,Sex,Female,21.03,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Finland,Year,2010,FALSE,Sex,Male,21.03,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,El Salvador,Year,2010,FALSE,Sex,Male,21.04,EN,2020-12-04T00:00:00.000Z
+SEAR,South-East Asia,Country,Maldives,Year,2010,FALSE,Sex,Female,21.04,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,Republic of Korea,Year,2010,FALSE,Sex,Male,21.05,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Nicaragua,Year,2010,FALSE,Sex,Female,21.1,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Romania,Year,2010,FALSE,Sex,Female,21.11,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Belgium,Year,2010,FALSE,Sex,Male,21.12,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,United Arab Emirates,Year,2010,FALSE,Sex,Female,21.18,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Turkey,Year,2010,FALSE,Sex,Both sexes,21.2,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,Tonga,Year,2010,FALSE,Sex,Female,21.21,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Mauritius,Year,2010,FALSE,Sex,Female,21.22,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Uruguay,Year,2010,FALSE,Sex,Both sexes,21.25,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Barbados,Year,2010,FALSE,Sex,Both sexes,21.3,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Belize,Year,2010,FALSE,Sex,Both sexes,21.3,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Albania,Year,2010,FALSE,Sex,Both sexes,21.31,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Algeria,Year,2010,FALSE,Sex,Both sexes,21.37,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Dominican Republic,Year,2010,FALSE,Sex,Both sexes,21.38,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Germany,Year,2010,FALSE,Sex,Male,21.4,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,Iran (Islamic Republic of),Year,2010,FALSE,Sex,Both sexes,21.4,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Austria,Year,2010,FALSE,Sex,Male,21.44,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,Jordan,Year,2010,FALSE,Sex,Female,21.44,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Seychelles,Year,2010,FALSE,Sex,Female,21.44,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Malta,Year,2010,FALSE,Sex,Male,21.46,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,Viet Nam,Year,2010,FALSE,Sex,Female,21.49,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,China,Year,2010,FALSE,Sex,Female,21.52,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,Libya,Year,2010,FALSE,Sex,Both sexes,21.52,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Mexico,Year,2010,FALSE,Sex,Both sexes,21.52,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Cuba,Year,2010,FALSE,Sex,Both sexes,21.53,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Trinidad and Tobago,Year,2010,FALSE,Sex,Female,21.53,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,United States of America,Year,2010,FALSE,Sex,Male,21.54,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Suriname,Year,2010,FALSE,Sex,Female,21.55,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Paraguay,Year,2010,FALSE,Sex,Both sexes,21.57,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Netherlands,Year,2010,FALSE,Sex,Male,21.59,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Ecuador,Year,2010,FALSE,Sex,Both sexes,21.62,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Jamaica,Year,2010,FALSE,Sex,Both sexes,21.63,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Colombia,Year,2010,FALSE,Sex,Male,21.64,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Luxembourg,Year,2010,FALSE,Sex,Male,21.64,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Ireland,Year,2010,FALSE,Sex,Male,21.68,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Barbados,Year,2010,FALSE,Sex,Female,21.69,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Latvia,Year,2010,FALSE,Sex,Female,21.7,EN,2020-12-04T00:00:00.000Z
+SEAR,South-East Asia,Country,Thailand,Year,2010,FALSE,Sex,Male,21.7,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,Lebanon,Year,2010,FALSE,Sex,Female,21.71,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Greece,Year,2010,FALSE,Sex,Male,21.73,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Panama,Year,2010,FALSE,Sex,Male,21.74,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Antigua and Barbuda,Year,2010,FALSE,Sex,Female,21.77,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Hungary,Year,2010,FALSE,Sex,Female,21.81,EN,2020-12-04T00:00:00.000Z
+SEAR,South-East Asia,Country,Sri Lanka,Year,2010,FALSE,Sex,Female,21.82,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Algeria,Year,2010,FALSE,Sex,Female,21.85,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Norway,Year,2010,FALSE,Sex,Male,21.89,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Venezuela (Bolivarian Republic of),Year,2010,FALSE,Sex,Both sexes,21.89,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Slovakia,Year,2010,FALSE,Sex,Female,21.92,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,United Kingdom of Great Britain and Northern Ireland,Year,2010,FALSE,Sex,Male,21.99,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,Libya,Year,2010,FALSE,Sex,Female,22.01,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Saint Lucia,Year,2010,FALSE,Sex,Both sexes,22.02,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Cabo Verde,Year,2010,FALSE,Sex,Both sexes,22.07,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,El Salvador,Year,2010,FALSE,Sex,Both sexes,22.08,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,Tunisia,Year,2010,FALSE,Sex,Female,22.11,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Belize,Year,2010,FALSE,Sex,Female,22.15,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Spain,Year,2010,FALSE,Sex,Male,22.15,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Cyprus,Year,2010,FALSE,Sex,Male,22.16,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,Singapore,Year,2010,FALSE,Sex,Male,22.17,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Denmark,Year,2010,FALSE,Sex,Both sexes,22.19,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Sweden,Year,2010,FALSE,Sex,Male,22.2,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Bahamas,Year,2010,FALSE,Sex,Female,22.22,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Peru,Year,2010,FALSE,Sex,Male,22.23,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,Iran (Islamic Republic of),Year,2010,FALSE,Sex,Female,22.29,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,France,Year,2010,FALSE,Sex,Male,22.35,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Italy,Year,2010,FALSE,Sex,Male,22.36,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Croatia,Year,2010,FALSE,Sex,Female,22.39,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Brazil,Year,2010,FALSE,Sex,Female,22.42,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Chile,Year,2010,FALSE,Sex,Both sexes,22.45,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Costa Rica,Year,2010,FALSE,Sex,Male,22.49,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Lithuania,Year,2010,FALSE,Sex,Female,22.49,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Turkey,Year,2010,FALSE,Sex,Female,22.55,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,Japan,Year,2010,FALSE,Sex,Male,22.56,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Albania,Year,2010,FALSE,Sex,Female,22.63,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,Kuwait,Year,2010,FALSE,Sex,Male,22.67,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Mexico,Year,2010,FALSE,Sex,Female,22.67,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Argentina,Year,2010,FALSE,Sex,Female,22.7,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Iceland,Year,2010,FALSE,Sex,Male,22.73,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Ecuador,Year,2010,FALSE,Sex,Female,22.77,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Slovenia,Year,2010,FALSE,Sex,Both sexes,22.77,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Israel,Year,2010,FALSE,Sex,Male,22.8,EN,2020-12-04T00:00:00.000Z
+SEAR,South-East Asia,Country,Thailand,Year,2010,FALSE,Sex,Both sexes,22.82,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Canada,Year,2010,FALSE,Sex,Male,22.84,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Dominican Republic,Year,2010,FALSE,Sex,Female,22.85,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Switzerland,Year,2010,FALSE,Sex,Male,22.86,EN,2020-12-04T00:00:00.000Z
+AFR,Africa,Country,Cabo Verde,Year,2010,FALSE,Sex,Female,22.88,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Cuba,Year,2010,FALSE,Sex,Female,22.91,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Czechia,Year,2010,FALSE,Sex,Female,22.95,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,El Salvador,Year,2010,FALSE,Sex,Female,22.96,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,New Zealand,Year,2010,FALSE,Sex,Male,22.96,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,United States of America,Year,2010,FALSE,Sex,Both sexes,22.96,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Paraguay,Year,2010,FALSE,Sex,Female,23,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Colombia,Year,2010,FALSE,Sex,Both sexes,23.03,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Peru,Year,2010,FALSE,Sex,Both sexes,23.04,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Portugal,Year,2010,FALSE,Sex,Both sexes,23.1,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Belgium,Year,2010,FALSE,Sex,Both sexes,23.11,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Germany,Year,2010,FALSE,Sex,Both sexes,23.15,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Ireland,Year,2010,FALSE,Sex,Both sexes,23.18,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Estonia,Year,2010,FALSE,Sex,Female,23.2,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Malta,Year,2010,FALSE,Sex,Both sexes,23.2,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,Kuwait,Year,2010,FALSE,Sex,Both sexes,23.21,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Poland,Year,2010,FALSE,Sex,Female,23.26,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,Australia,Year,2010,FALSE,Sex,Male,23.29,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Finland,Year,2010,FALSE,Sex,Both sexes,23.29,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Netherlands,Year,2010,FALSE,Sex,Both sexes,23.29,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Greece,Year,2010,FALSE,Sex,Both sexes,23.33,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Panama,Year,2010,FALSE,Sex,Both sexes,23.33,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,United Kingdom of Great Britain and Northern Ireland,Year,2010,FALSE,Sex,Both sexes,23.36,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Austria,Year,2010,FALSE,Sex,Both sexes,23.43,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Denmark,Year,2010,FALSE,Sex,Female,23.5,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Norway,Year,2010,FALSE,Sex,Both sexes,23.5,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Cyprus,Year,2010,FALSE,Sex,Both sexes,23.54,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Luxembourg,Year,2010,FALSE,Sex,Both sexes,23.54,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Venezuela (Bolivarian Republic of),Year,2010,FALSE,Sex,Female,23.64,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Sweden,Year,2010,FALSE,Sex,Both sexes,23.66,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,Republic of Korea,Year,2010,FALSE,Sex,Both sexes,23.72,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Uruguay,Year,2010,FALSE,Sex,Female,23.74,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Peru,Year,2010,FALSE,Sex,Female,23.77,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Jamaica,Year,2010,FALSE,Sex,Female,23.79,EN,2020-12-04T00:00:00.000Z
+SEAR,South-East Asia,Country,Thailand,Year,2010,FALSE,Sex,Female,23.81,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Iceland,Year,2010,FALSE,Sex,Both sexes,23.91,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Costa Rica,Year,2010,FALSE,Sex,Both sexes,23.97,EN,2020-12-04T00:00:00.000Z
+EMR,Eastern Mediterranean,Country,Kuwait,Year,2010,FALSE,Sex,Female,23.98,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,Singapore,Year,2010,FALSE,Sex,Both sexes,24.1,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Israel,Year,2010,FALSE,Sex,Both sexes,24.15,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,New Zealand,Year,2010,FALSE,Sex,Both sexes,24.2,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,United States of America,Year,2010,FALSE,Sex,Female,24.21,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Chile,Year,2010,FALSE,Sex,Female,24.22,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Colombia,Year,2010,FALSE,Sex,Female,24.27,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Saint Lucia,Year,2010,FALSE,Sex,Female,24.29,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Canada,Year,2010,FALSE,Sex,Both sexes,24.35,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Italy,Year,2010,FALSE,Sex,Both sexes,24.37,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Spain,Year,2010,FALSE,Sex,Both sexes,24.42,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Ireland,Year,2010,FALSE,Sex,Female,24.57,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,United Kingdom of Great Britain and Northern Ireland,Year,2010,FALSE,Sex,Female,24.62,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Switzerland,Year,2010,FALSE,Sex,Both sexes,24.65,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,France,Year,2010,FALSE,Sex,Both sexes,24.71,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Malta,Year,2010,FALSE,Sex,Female,24.71,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,Australia,Year,2010,FALSE,Sex,Both sexes,24.74,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Germany,Year,2010,FALSE,Sex,Female,24.76,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Netherlands,Year,2010,FALSE,Sex,Female,24.8,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Cyprus,Year,2010,FALSE,Sex,Female,24.83,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Slovenia,Year,2010,FALSE,Sex,Female,24.83,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Greece,Year,2010,FALSE,Sex,Female,24.85,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Belgium,Year,2010,FALSE,Sex,Female,24.88,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Norway,Year,2010,FALSE,Sex,Female,24.96,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Panama,Year,2010,FALSE,Sex,Female,24.96,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Portugal,Year,2010,FALSE,Sex,Female,25,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Sweden,Year,2010,FALSE,Sex,Female,25,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Iceland,Year,2010,FALSE,Sex,Female,25.02,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Luxembourg,Year,2010,FALSE,Sex,Female,25.15,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Austria,Year,2010,FALSE,Sex,Female,25.16,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,Japan,Year,2010,FALSE,Sex,Both sexes,25.27,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Finland,Year,2010,FALSE,Sex,Female,25.28,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Israel,Year,2010,FALSE,Sex,Female,25.31,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,New Zealand,Year,2010,FALSE,Sex,Female,25.35,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Costa Rica,Year,2010,FALSE,Sex,Female,25.4,EN,2020-12-04T00:00:00.000Z
+AMR,Americas,Country,Canada,Year,2010,FALSE,Sex,Female,25.7,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,Singapore,Year,2010,FALSE,Sex,Female,25.83,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,Republic of Korea,Year,2010,FALSE,Sex,Female,25.88,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Italy,Year,2010,FALSE,Sex,Female,26.1,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,Australia,Year,2010,FALSE,Sex,Female,26.13,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Switzerland,Year,2010,FALSE,Sex,Female,26.19,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,Spain,Year,2010,FALSE,Sex,Female,26.5,EN,2020-12-04T00:00:00.000Z
+EUR,Europe,Country,France,Year,2010,FALSE,Sex,Female,26.77,EN,2020-12-04T00:00:00.000Z
+WPR,Western Pacific,Country,Japan,Year,2010,FALSE,Sex,Female,27.69,EN,2020-12-04T00:00:00.000Z
